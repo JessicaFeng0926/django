@@ -52,3 +52,5 @@ Supporting the Development of Django
 Django's development depends on your contributions. 
 
 If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
+
+这是stable4.1.x版本的代码，我新建了一个分支用于学习、记笔记
